@@ -1,0 +1,9 @@
+
+package co.edu.uniquindio.edu.poo.javafx;
+
+public class Launcher {
+
+    public static void main(String[] args) {
+        App.main(args);
+    }
+}
